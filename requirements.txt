@@ -4,3 +4,6 @@ python-dotenv
 langchain_groq
 langchain_core
 streamlit
+langchain_classic
+pypdf
+faiss-cpu
